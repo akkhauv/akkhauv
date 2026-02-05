@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akkhauv&layout=compact&theme=gotham)
+![Amber's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=akkhauv&show_icons=true&theme=dark)
 
 <!---
 akhauv/akhauv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
